@@ -1,0 +1,14 @@
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\bin\Debug\net10.0\BalakinPr10_Самсонов.exe
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\bin\Debug\net10.0\BalakinPr10_Самсонов.deps.json
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\bin\Debug\net10.0\BalakinPr10_Самсонов.runtimeconfig.json
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\bin\Debug\net10.0\BalakinPr10_Самсонов.dll
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\bin\Debug\net10.0\BalakinPr10_Самсонов.pdb
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\BalakinPr10_Самсонов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\BalakinPr10_Самсонов.AssemblyInfoInputs.cache
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\BalakinPr10_Самсонов.AssemblyInfo.cs
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\BalakinPr10_Самсонов.csproj.CoreCompileInputs.cache
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\BalakinPr10_Самсонов.dll
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\refint\BalakinPr10_Самсонов.dll
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\BalakinPr10_Самсонов.pdb
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\BalakinPr10_Самсонов.genruntimeconfig.cache
+C:\Users\cutecruelty\Desktop\New folder\BalakinPr10_Самсонов\obj\Debug\net10.0\ref\BalakinPr10_Самсонов.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BalakinPr15_Самсонов/1.0.0": {
+        "runtime": {
+          "BalakinPr15_Самсонов.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BalakinPr15_Самсонов/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
